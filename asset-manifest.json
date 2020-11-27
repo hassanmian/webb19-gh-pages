@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/webb19-gh-pages/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/webb19-gh-pages/static/js/main.d52e74a9.chunk.js",
+    "main.js.map": "/webb19-gh-pages/static/js/main.d52e74a9.chunk.js.map",
+    "runtime-main.js": "/webb19-gh-pages/static/js/runtime-main.78dfe149.js",
+    "runtime-main.js.map": "/webb19-gh-pages/static/js/runtime-main.78dfe149.js.map",
+    "static/js/2.a033adb7.chunk.js": "/webb19-gh-pages/static/js/2.a033adb7.chunk.js",
+    "static/js/2.a033adb7.chunk.js.map": "/webb19-gh-pages/static/js/2.a033adb7.chunk.js.map",
+    "static/js/3.d5cd83de.chunk.js": "/webb19-gh-pages/static/js/3.d5cd83de.chunk.js",
+    "static/js/3.d5cd83de.chunk.js.map": "/webb19-gh-pages/static/js/3.d5cd83de.chunk.js.map",
+    "index.html": "/webb19-gh-pages/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/webb19-gh-pages/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.a033adb7.chunk.js.LICENSE.txt": "/webb19-gh-pages/static/js/2.a033adb7.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/webb19-gh-pages/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78dfe149.js",
+    "static/js/2.a033adb7.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.d52e74a9.chunk.js"
+  ]
+}
